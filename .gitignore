@@ -1,7 +1,7 @@
 /docker
+docker-image.sh
+docker-container.sh
 /nginx
-*/docker/docker-image.sh
-*/docker/docker-container.sh
 */data/*
 */logs/*
 *.zip
