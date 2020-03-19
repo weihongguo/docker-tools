@@ -1,3 +1,0 @@
-!.gitignore
-conf.d/*
-!conf.d/example.conf.bak
