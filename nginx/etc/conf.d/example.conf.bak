@@ -1,8 +1,0 @@
-server {
-    listen 80 default_server;
-    server_name example;
-
-    location / {
-        root /www/example;
-    }
-}
