@@ -1,4 +1,4 @@
-etc/conf.d/
+etc/conf.d/*
 !etc/conf.d/example.conf.bak
-www/
+www/*
 !www/example/
