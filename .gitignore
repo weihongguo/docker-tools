@@ -1,0 +1,6 @@
+/docker
+/nginx
+*/docker/*.sh
+*/data/*
+*/logs/*
+*.zip
