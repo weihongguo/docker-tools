@@ -1,8 +1,8 @@
-etc/conf.d/**
-!etc/conf.d/example.conf.bak
+/etc/conf.d/**
+!/etc/conf.d/example.conf.bak
 
-logs/**
-!logs
+/logs/**
+!/logs
 
-www/**
-!www/example
+/www/**
+!/www/example
